@@ -33,7 +33,7 @@ Antes de começar 🏁, você precisa ter o [Python](https://www.python.org/down
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/DiegoBolonik/EstacoesLoeffa
+$ git clone https://github.com/DiegoBolonik/EstacoesLoeffa.git
 # Entre na pasta
 $ cd EstacoesLoeffa
 ```
