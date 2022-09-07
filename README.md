@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img alt="Login" src="LoeffaApp/Loeffa/project/static/001.png" width=250>
+  <img alt="Login" src="https://github.com/DiegoBolonik/EstacoesLoeffa/blob/main/Loeffa/project/static/001.png" width=250>
   <img alt="cadastrar" width=250>
   <img alt="Job"  width=250>
   <img alt="Perfil"  width=250>
