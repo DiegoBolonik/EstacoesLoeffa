@@ -84,6 +84,7 @@ $ python .\manage.py createsuperuser
 ```bash
 # Para iniciar o projeto
 # Linux
+$ cd Loeffa
 $ python3 manage.py runserver
 # Windows
 $ python manage.py runserver
