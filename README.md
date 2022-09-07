@@ -5,12 +5,11 @@
 </div>
 
 <p align="center">
-  <img alt="django" src="https://github.com/DiegoBolonik/EstacoesLoeffa/blob/main/Loeffa/project/static/django.png">
+  <img alt="django" src="https://github.com/DiegoBolonik/EstacoesLoeffa/blob/main/Loeffa/project/static/django.png"><br>
   <img alt="001" src="https://github.com/DiegoBolonik/EstacoesLoeffa/blob/main/Loeffa/project/static/001.png" width=250>
   <img alt="002" src="https://github.com/DiegoBolonik/EstacoesLoeffa/blob/main/Loeffa/project/static/002.png" width=250>
   <img alt="003" src="https://github.com/DiegoBolonik/EstacoesLoeffa/blob/main/Loeffa/project/static/003.png" width=250>
   <img alt="004" src="https://github.com/DiegoBolonik/EstacoesLoeffa/blob/main/Loeffa/project/static/004.png" width=250>
-
 </p>
 
 ## 🎯 Sobre
