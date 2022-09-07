@@ -21,7 +21,7 @@ Resultado do teste técnico Loeffa. Cadastro de salas de trabalho. CRUD completo
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Python](https://www.python.org/)
-- [Django](https://nodejs.org/en/)
+- [Django](https://www.djangoproject.com/)
 
 ## ✅ Pré requisitos
 
